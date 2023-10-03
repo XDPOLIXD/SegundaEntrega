@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "image": "product1.jpg",
+        "image": "https://static.swatch.com/images/product/SO34T700/sa200/SO34T700_sa200_er005.png",
         "title": "Producto 1",
         "price": 19.99,
         "category": "Mujeres",
@@ -11,7 +11,7 @@
     },
     {
         "id": 2,
-        "image": "product2.jpg",
+        "image": "https://static.swatch.com/images/product/SY23S413/sa200/SY23S413_sa200_er005.png",
         "title": "Producto 2",
         "category": "Hombres",
         "price": 29.99,
@@ -21,7 +21,7 @@
     },
     {
         "id": 3,
-        "image": "product3.jpg",
+        "image": "https://static.swatch.com/images/product/GM416/sa200/GM416_sa200_er005.png",
         "title": "Producto 3",
         "price": 39.99,
         "category": "Mujeres",
@@ -31,7 +31,7 @@
     },
     {
         "id": 4,
-        "image": "product4.jpg",
+        "image": "https://static.swatch.com/flikflak/images/product/ZFBNP117/fa000/ZFBNP117_fa000_ec002.png",
         "title": "Producto 4",
         "price": 49.99,
         "category": "Niños",
@@ -41,7 +41,7 @@
     },
     {
         "id": 5,
-        "image": "product5.jpg",
+        "image": "https://static.swatch.com/images/product/GP148/sa200/GP148_sa200_er005.png",
         "title": "Producto 5",
         "price": 59.99,
         "category": "Mujeres",
@@ -51,7 +51,7 @@
     },
     {
         "id": 6,
-        "image": "product6.jpg",
+        "image": "https://static.swatch.com/flikflak/images/product/ZFPSP065/fa000/ZFPSP065_fa000_ec002.png",
         "title": "Producto 6",
         "price": 69.99,
         "category": "Niños",
@@ -61,7 +61,7 @@
     },
     {
         "id": 7,
-        "image": "product7.jpg",
+        "image": "https://static.swatch.com/images/product/GE726-S26/sa200/GE726-S26_sa200_er005.png",
         "title": "Producto 7",
         "price": 79.99,
         "category": "Mujeres",
@@ -71,7 +71,7 @@
     },
     {
         "id": 8,
-        "image": "product8.jpg",
+        "image": "https://static.swatch.com/images/product/SO27B100/sa200/SO27B100_sa200_er005.png",
         "title": "Producto 8",
         "price": 89.99,
         "category": "Hombres",
@@ -81,7 +81,7 @@
     },
     {
         "id": 9,
-        "image": "product9.jpg",
+        "image": "https://static.swatch.com/images/product/YSG169G/sa200/YSG169G_sa200_er005.png",
         "title": "Producto 9",
         "price": 99.99,
         "category": "Mujeres",
@@ -91,7 +91,7 @@
     },
     {
         "id": 10,
-        "image": "product10.jpg",
+        "image": "https://static.swatch.com/images/product/YLS231M/sa200/YLS231M_sa200_er005.png",
         "title": "Producto 10",
         "price": 109.99,
         "category": "Mujeres",
@@ -101,7 +101,7 @@
     },
     {
         "id": 11,
-        "image": "product11.jpg",
+        "image": "https://static.swatch.com/flikflak/images/product/ZFPSP064/fa000/ZFPSP064_fa000_ec002.png",
         "title": "Producto 11",
         "price": 119.99,
         "category": "Niños",
@@ -111,7 +111,7 @@
     },
     {
         "id": 12,
-        "image": "product12.jpg",
+        "image": "https://static.swatch.com/images/product/SS07S106G/sa200/SS07S106G_sa200_er005.png",
         "title": "Producto 12",
         "price": 129.99,
         "category": "Hombres",
@@ -121,7 +121,7 @@
     },
     {
         "id": 13,
-        "image": "product13.jpg",
+        "image": "https://static.swatch.com/images/product/YSS300G/sa200/YSS300G_sa200_er005.png",
         "title": "Producto 13",
         "price": 139.99,
         "category": "Mujeres",
@@ -131,7 +131,7 @@
     },
     {
         "id": 14,
-        "image": "product14.jpg",
+        "image": "https://static.swatch.com/flikflak/images/product/ZFCSP119/fa000/ZFCSP119_fa000_ec002.png",
         "title": "Producto 14",
         "price": 149.99,
         "category": "Niños",
@@ -141,7 +141,7 @@
     },
     {
         "id": 15,
-        "image": "product15.jpg",
+        "image": "https://static.swatch.com/images/product/SB07S105/sa200/SB07S105_sa200_er005.png",
         "title": "Producto 15",
         "price": 159.99,
         "category": "Hombres",
