@@ -33,7 +33,6 @@
 .image-card {
     width: 233px;
     max-height: 200px;
-    
 }
 
 .card-media {
@@ -47,7 +46,7 @@
 .card-products-container {
     display: flex;
     flex-direction: column;
-    height: 50%;
+    height: 75%;
     margin: 100px;
 }
 
