@@ -78,7 +78,7 @@
     max-width: 90%;
     background-color: #fff;
     padding: 20px;
-    border-radius: 8px;
+    border-radius: 10px;
     box-shadow: 0px 2px 10px rgba(208, 208, 208, 0.784);
     text-align: center;
 }
@@ -116,7 +116,6 @@
 
 .modal-scroll-content {
     max-height: 200px;
-    /* Ajusta la altura máxima según tus necesidades */
     overflow-y: auto;
 }
 
@@ -125,7 +124,14 @@
     text-decoration: none;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: lighter;
+    margin: 0 15px; 
+    transition: color 0.3s ease; 
 }
+
+.navbar-link:hover {
+    color: #f74404;
+}
+
 
 .active-navbar-link {
     color: #fff;
@@ -135,7 +141,7 @@
 .cart-container {
     margin: 109px;
     padding: 10px;
-    border: 1px solid #ccc;
+    border: 3px solid #ccc;
     border-radius: 4px;
     background-color: #f9f9f9;
 }
