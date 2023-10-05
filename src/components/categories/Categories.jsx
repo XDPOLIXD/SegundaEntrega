@@ -11,7 +11,7 @@ const Categories = () => {
 
     return (
         <div className="container">
-            <Typography variant="h2" style={{ color: "rgb(207 9 9" }}>
+            <Typography variant="h2" style={{ color: "#ff6347" }}>
                 Nuestras Categorias
             </Typography>
             {data.map((category) => (

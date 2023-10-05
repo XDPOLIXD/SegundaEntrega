@@ -5,7 +5,7 @@ import { NavLink } from "react-router-dom";
 const Navbar = () => {
 
     return (
-        <AppBar sx={{ backgroundColor: "#e2e2e2" }}>
+        <AppBar sx={{ backgroundColor: "#e6e6fa" }}>
             <Toolbar sx={{ display: "flex", justifyContent: "space-around" }}>
                 <NavLink className="navbar-link" to="/">
                     <Typography >
